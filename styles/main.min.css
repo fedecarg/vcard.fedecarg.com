@@ -1,0 +1,28 @@
+*{border:0;outline:none;margin:0;padding:0;}
+body{background:#d7dce0 url(../images/background.jpg) 0 0 repeat;font:11px "Lucida Sans Unicode", "Lucida Sans", "Lucida Grande", arial, helvetica;text-shadow:1px 1px 1px #fff;color:#000;}
+a{text-decoration:none;color:#000;z-index:99;}
+a:hover{text-decoration:none;}
+ul{list-style-type:none;}
+.clear{clear:both;}
+#content{position:absolute;top:0;right:0;bottom:0;left:0;}
+#card{width:295px;height:233px;position:absolute;top:50%;left:50%;background:url(../images/card.png) 0 0 no-repeat;margin:-129px 0 0 -217px;padding:25px 0 0 140px;}
+h1{font:normal 15px "American Typewriter", Georgia, sans-serif;}
+h2,h2 a{font:normal 12px "American Typewriter", Georgia, sans-serif;color:#999;margin-bottom:30px;}
+h2 a:hover{color:#000;}
+.picture{position:absolute;left:22px;top:28px;}
+#information li{margin-right:20px;}
+#information a:hover{color:#999;}
+#information div.field{background:url(../images/line.png) repeat-x center top transparent;font:normal 11px "American Typewriter", Georgia, sans-serif;color:#999;bottom:0;margin:5px 20px 25px 0;}
+#information li.services ul li.service-icon{position:relative;z-index:0;float:left;height:32px;list-style-type:none;width:32px;margin:0 4px 4px 0;}
+#information li.services ul li.service-icon a{background-position:50% 50%;background-repeat:no-repeat;display:block;font-style:normal;font-weight:400;height:32px;padding-left:0;position:relative;width:32px;}
+#information li.services ul li a.icon{background-image:url(../images/socialmedia_sprite.png);background-repeat:no-repeat;}
+#information li.services ul li a.twitter{background-position:0 -2878px;}
+#information li.services ul li a.linkedin{background-position:0 -1990px;}
+#information li.services ul li a.wordpress{background-position:0 -3977px;}
+#information li.services ul li a.github{background-position:0 -4044px;}
+#information li.services ul li a.vimeo{background-position:0 -3174px;}
+#information li.services ul li a.tumblr{background-position:0 -2730px;}
+#information li.services ul li a.slideshare{background-position:0 -66px;}
+.clearfix:after{clear:both;content:" ";display:block;font-size:0;height:0;line-height:0;visibility:hidden;width:0;}
+.clearfix{display:block;}
+: :-moz-selection,: :selection{background:#d7dce0;}
