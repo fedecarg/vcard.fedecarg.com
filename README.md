@@ -1,3 +1,3 @@
 # GitHub Page
-http://fedecarg.github.io
+www.fedecarg.com CNAME fedecarg.github.io
 
