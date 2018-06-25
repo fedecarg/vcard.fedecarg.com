@@ -1,0 +1,34 @@
+{
+  "name": "vcard.fedecarg.com",
+  "version": "1.0.0",
+  "description": "Virtual contact file",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "webpack --watch --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "federico cargnelutti",
+    "software developer",
+    "vcard"
+  ],
+  "author": "Federico Cargnelutti",
+  "license": "Copyright (c) Federico Cargnelutti",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "html-loader": "^0.5.5",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}

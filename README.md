@@ -1,3 +1,2 @@
-# GitHub Page
-`www.fedecarg.com CNAME fedecarg.github.io`
-
+# Demo
+Page hosted in AWS: `http://vcard.fedecarg.com`
