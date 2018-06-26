@@ -1,12 +1,12 @@
 # Release Build
 ## Requirements
-Run this command to installs all the packages that this app depends on:
+Run this command to install all the packages that this app depends on:
 ```
 npm install
 ```
 
 ## Build
-Once all the dependencies have been installed, you may build the app with this command:
+Once all the node packages have been installed, you may build the app with this command:
 ```
 $ npm run build
 ```
