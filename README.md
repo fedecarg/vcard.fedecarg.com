@@ -11,8 +11,11 @@ Once all the node packages have been installed, you may build the app with this 
 $ npm run build
 ```
 
-# Demo
-App hosted in AWS Fargate `http://vcard.fedecarg.com` and deployed using https://github.com/fedecarg/aws-fargate-node
+# Deployment
+This app is deployed to AWS ECS/ECR/Fargate using https://github.com/fedecarg/aws-fargate-node
+
+# URL
+http://vcard.fedecarg.com
 
 # Screenshot
 ![](https://raw.githubusercontent.com/fedecarg/fedecarg.github.io/master/images/vcard.png)
