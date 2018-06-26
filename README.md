@@ -12,7 +12,7 @@ $ npm run build
 ```
 
 # Demo
-Page hosted in AWS: `http://vcard.fedecarg.com`
+App hosted in AWS Fargate `http://vcard.fedecarg.com` and deployed using https://github.com/fedecarg/aws-fargate-node
 
 # Screenshot
 ![](https://raw.githubusercontent.com/fedecarg/fedecarg.github.io/master/images/vcard.png)
