@@ -57,12 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
-
-# vuepress build output
-.vuepress/dist
-
-# Serverless directories
-.serverlessy
-
+# grunt build output
+dist/
