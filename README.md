@@ -18,4 +18,4 @@ This app is deployed to AWS ECS/ECR/Fargate using https://github.com/fedecarg/aw
 http://vcard.fedecarg.com
 
 ## Screenshot
-![](https://raw.githubusercontent.com/fedecarg/fedecarg.github.io/master/images/vcard.png)
+![](https://raw.githubusercontent.com/fedecarg/vcard.fedecarg.com/master/images/vcard.png)
